@@ -1,0 +1,39 @@
+
+body {
+  background-color: black;
+}
+
+p {
+  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  font-size: 25px;
+  text-align: center;
+  color: white;
+}
+
+a:visited {
+  color: hotpink;
+  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+a:link {
+  color: Cyan;
+  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+.logo {
+  padding: 5%;
+}
+
+.divider {
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.text {
+  padding: 3%;
+}
